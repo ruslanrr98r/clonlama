@@ -1,0 +1,2 @@
+# clonlama
+clonlama  oyrenirem
